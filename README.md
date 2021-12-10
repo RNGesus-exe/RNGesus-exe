@@ -11,7 +11,7 @@ Some information about me:
 - 🥅 2021 Goals Build my own robot car which works with reinforcement learning
 
 Projects made so far:
-1) Email Management Software (Java/MySQL)
+1) Email Management Software (Java/MySQL/C++)
 2) Smart Wallet (Android/Firebase)
 3) Personal String Library (C++)
 4) Library Management System (Java/MySQL)
