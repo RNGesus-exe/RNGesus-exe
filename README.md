@@ -20,7 +20,8 @@ Projects made so far:
 Future Projects:
 1) Make my own robot car which works on Reinforcement Learning
 2) Make my own robot car which works on AI (SLAM)
-3) Make my own compiler (Assembly/C)
-4) Make my own kernel (C/Linux)
+3) Make a database directory (C++)
+4) Make my own compiler (Assembly/C)
+5) Make my own kernel (C/Linux)
 
 If you got any good idea or want to work on an interesting project then let me know on my email 😄
