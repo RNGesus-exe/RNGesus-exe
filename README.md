@@ -10,7 +10,7 @@ Some information about me:
 - 📫 You can contact me on [khawaja.shaheryar.behzad@gmail.com](url)
 - 👯 I’m looking to collaborate on Robotics or Embedded Programming
 - 💻 I have worked on C++, Python, Java, HTML/CSS and Android/Flutter Development, My favourite languages are C/C++ and x86/ARM.
-- 🥅 2022 Goals Build an autonomous car which does 3D mapping and uses AI
+- 🥅 2022 Goals, Build an autonomous drone which does 3D mapping and uses AI
 
 Amazing Projects made so far:
 1) IoT Automatic Borrowing System using ESP32 (C++)
@@ -24,9 +24,8 @@ Amazing Projects made so far:
 9) Make my own CPU (ARM assembly)
 
 Future Projects:
-1) Make my own robot car which works on Reinforcement Learning
-2) Make my own robot car which works on AI (SLAM)
-3) To publish a research paper in AI
-4) Take the gold medal in the upcoming 2022 ICPC Nationals
+1) Make my own drone which works on AI and can perform 3D mapping (SLAM)
+2) To publish a research paper in AI
+3) Take the gold medal in the upcoming 2022 ICPC Nationals
 
 If you got any good idea or want to work on an interesting project then let me know on my email 😄
