@@ -14,14 +14,10 @@ Some information about me:
 
 Amazing Projects made so far:
 1) IoT Automatic Borrowing System using ESP32 (C++)
-2) Email Management Software (Java/MySQL/C++)
-3) Smart Wallet (Android/Firebase)
-4) Personal String Library (C++)
-5) Library Management System (Java/MySQL)
-6) Smart Chat (Android/Python/Firebase)
-7) A database directory (C++)
-8) My own compiler (C++)
-9) Make my own CPU (ARM assembly)
+2) Smart Wallet (Android/Firebase)
+3) A database directory (C++)
+4) My own compiler (C++)
+5) Make my own CPU (ARM assembly)
 
 Future Projects:
 1) Make my own drone which works on AI and can perform 3D mapping (SLAM)
