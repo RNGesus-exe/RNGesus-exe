@@ -19,6 +19,7 @@ Amazing Projects made so far:
 4) A database directory (C++)
 5) My own compiler (C++)
 6) Make my own CPU (ARM assembly)
+7) Object Detection and Tracking (C++)
 
 Future Projects:
 1) To publish a research paper on AI
